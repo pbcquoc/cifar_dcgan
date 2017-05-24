@@ -11,25 +11,31 @@ To train model
 python cifar_gan.py
 ```
 # EXAMPLE 
-at 10000 iters
+at 5 iters
+<p align="center">
+  <img src="./out/0005.png">
+</p>
 
-![](./out/0005.png)
 
-at 10000 iters
+at 85 iters
+<p align="center">
+  <img src="./out/0085.png">
+</p>
 
-![](./out/0085.png)
 
-at 10000 iters
+at 185 iters
+<p align="center">
+  <img src="./out/0185.png">
+</p>
 
-![](./out/0185.png)
 
-at 10000 iters
+at 285 iters
+<p align="center">
+  <img src="./out/0285.png">
+</p>
 
-![](./out/0285.png)
 
-at 10000 iters
-
-![](./out/0385.png)
+at 385 iters
 
 <p align="center">
   <img src="./out/0385.png">
