@@ -11,8 +11,20 @@ To train model
 python cifar_gan.py
 ```
 # EXAMPLE 
-at 10000 iter
+at 10000 iters
+![](./out/0005.png)
+at 10000 iters
 
+![](./out/0085.png)
+at 10000 iters
+
+![](./out/0185.png)
+at 10000 iters
+
+![](./out/0285.png)
+at 10000 iters
+
+![](./out/0385.png)
 You can see it begin with noise image at first iteration and will generate image more clearly but in the end, the model collapse happen, images are destroyed
  
 ![](./out/cifar_gan.gif)
