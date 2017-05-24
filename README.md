@@ -12,35 +12,24 @@ python cifar_gan.py
 ```
 # EXAMPLE 
 at 5 iters
-<p align="center">
-  <img src="./out/0005.png">
-</p>
 
+![](./out/0005.png)
 
 at 85 iters
-<p align="center">
-  <img src="./out/0085.png">
-</p>
 
+![](./out/0085.png)
 
 at 185 iters
-<p align="center">
-  <img src="./out/0185.png">
-</p>
 
+![](./out/0185.png)
 
 at 285 iters
-<p align="center">
-  <img src="./out/0285.png">
-</p>
 
+![](./out/0285.png)
 
 at 385 iters
 
-<p align="center">
-  <img src="./out/0385.png">
-</p>
-
+![](./out/0385.png)
 
 You can see it begin with noise image at first iteration and will generate image more clearly but in the end, the model collapse happen, images are destroyed
  
