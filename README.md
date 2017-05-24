@@ -1,6 +1,11 @@
 # DCGAN for CIFAR10
 A clean implementation of DCGAN for CIFAR 10 from [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) in tensorflow 1.1
 
+#PREREQUISITES
+- Python 2.7
+- Tensorflow 1.1
+- numpy
+
 # TRAINING
 You have to download cifar10 into data folder 
 ```python
