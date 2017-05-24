@@ -45,3 +45,5 @@ at 385 iters
 You can see it begin with noise image at first iteration and will generate image more clearly but in the end, the model collapse happen, images are destroyed
  
 ![](./out/cifar_gan.gif)
+
+
