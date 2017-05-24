@@ -13,4 +13,4 @@ python cifar_gan.py
 # EXAMPLE 
 at 10000 iter
 
-[png](./out/cifar_gan.gif)
+[](./out/cifar_gan.gif)
