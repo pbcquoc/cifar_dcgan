@@ -15,7 +15,10 @@ To train model
 ```python
 python cifar_gan.py
 ```
-## EXAMPLE 
+
+You can find generated images at out folder
+
+## RESULTS
 at 5 iters
 
 ![](./out/0005.png)
